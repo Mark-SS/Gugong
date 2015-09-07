@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.30.214/~gongliang/gugong.ipa</string>
+					<string>http://miwifi.com/siyue/gugong.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.214/~gongliang/icon.png</string>
+					<string>http://miwifi.com/siyue/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,13 +27,13 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.30.214/~gongliang/icon.png</string>
+					<string>http://miwifi.com/siyue/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.arpilbrother.gugong</string>
+				<string>com.arpbrother.gugong</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
