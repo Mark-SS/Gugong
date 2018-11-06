@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.20.141/Local/gugong/MapGuide.ipa</string>
+					<string>http://192.168.31.254/wpsoffice_27232.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.20.141/Local/gugong/icon.png</string>
+					<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://192.168.20.141/Local/gugong/icon.png</string>
+					<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.aprilbrother.MapGuide</string>
+				<string>com.kingsoft.www.office.wpsoffice</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>9.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>一键安装副标题</string>
+				<string>WPSOffice</string>
 				<key>title</key>
-				<string>MapGuide</string>
+				<string>WPSOffice</string>
 			</dict>
 		</dict>
 	</array>
