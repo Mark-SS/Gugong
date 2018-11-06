@@ -1,52 +1,50 @@
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">	<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">	<plist version="1.0">
-<dict>	<dict>
-	<key>items</key>	<key>items</key>
-	<array>	<array>
-		<dict>	<dict>
-			<key>assets</key>	<key>assets</key>
-			<array>	<array>
-				<dict>	<dict>
-					<key>kind</key>	<key>kind</key>
-					<string>software-package</string>	<string>software-package</string>
-					<key>url</key>	<key>url</key>
-					<string>http://192.168.31.254/wpsoffice_27232.ipa</string>	 <!--  [必须] [.ipa包下载地址] 注意: 一定要https  -->
-				</dict>	<string>
-				<dict>	http://192.168.31.254/wpsoffice_27232.ipa
-					<key>kind</key>	</string>
-					<string>display-image</string>	</dict>
-					<key>needs-shine</key>	<dict>
-					<true/>	<key>kind</key>
-					<key>url</key>	<string>full-size-image</string>
-					<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>	<key>needs-shine</key>
-				</dict>	<true/>
-				<dict>	<key>url</key>
-					<key>kind</key>	<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>
-					<string>full-size-image</string>	</dict>
-					<key>needs-shine</key>	<dict>
-					<true/>	<key>kind</key>
-					<key>url</key>	<string>display-image</string>
-					<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>	<key>needs-shine</key>
-				</dict>	<true/>
-			</array>	<key>url</key>
-			<key>metadata</key>	<string>https://s1.ax1x.com/2018/11/06/ioLW0x.png</string>
-			<dict>	</dict>
-				<key>bundle-identifier</key>	</array>
-				<string>com.kingsoft.www.office.wpsoffice</string>	<key>metadata</key>
-				<key>bundle-version</key>	<dict>
-				<string>9.1.0</string>	<key>bundle-identifier</key>
-				<key>kind</key>	 <!--  [BundleID]  -->
-				<string>software</string>	<string>com.kingsoft.www.office.wpsoffice</string>
-				<key>subtitle</key>	<key>bundle-version</key>
-				<string>WPSOffice</string>	<string>9.1.0</string>
-				<key>title</key>	<key>kind</key>
-				<string>WPSOffice</string>	<string>software</string>
-			</dict>	<key>title</key>
-		</dict>	<string>WPSOffice</string>
-	</array>	<key>subtitle</key>
-<string>WPSOffice</string>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.31.254/wpsoffice_27232.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://s1.ax1x.com/2018/11/06/ioLf76.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.kingsoft.www.office.wpsoffice</string>
+				<key>bundle-version</key>
+				<string>9.1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>WPSOffice</string>
+				<key>title</key>
+				<string>WPSOffice</string>
+			</dict>
+		</dict>
+	</array>
+
 </dict>
-</dict>
-</array>
-</dict>	</dict>
 </plist>
